@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\bin\Debug\net6.0\C1Ammar.exe
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\bin\Debug\net6.0\C1Ammar.deps.json
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\bin\Debug\net6.0\C1Ammar.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\bin\Debug\net6.0\C1Ammar.dll
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\bin\Debug\net6.0\C1Ammar.pdb
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\C1Ammar.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\C1Ammar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\C1Ammar.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\C1Ammar.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\C1Ammar.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\C1Ammar.dll
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\refint\C1Ammar.dll
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\C1Ammar.pdb
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\C1Ammar.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\C1Ammar\obj\Debug\net6.0\ref\C1Ammar.dll

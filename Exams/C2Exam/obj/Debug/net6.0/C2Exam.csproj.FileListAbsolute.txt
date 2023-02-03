@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Desktop\C2Exam\bin\Debug\net6.0\C2Exam.exe
+C:\Users\Dell\OneDrive\Desktop\C2Exam\bin\Debug\net6.0\C2Exam.deps.json
+C:\Users\Dell\OneDrive\Desktop\C2Exam\bin\Debug\net6.0\C2Exam.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\C2Exam\bin\Debug\net6.0\C2Exam.dll
+C:\Users\Dell\OneDrive\Desktop\C2Exam\bin\Debug\net6.0\C2Exam.pdb
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\C2Exam.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\C2Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\C2Exam.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\C2Exam.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\C2Exam.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\C2Exam.dll
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\refint\C2Exam.dll
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\C2Exam.pdb
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\C2Exam.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\C2Exam\obj\Debug\net6.0\ref\C2Exam.dll
