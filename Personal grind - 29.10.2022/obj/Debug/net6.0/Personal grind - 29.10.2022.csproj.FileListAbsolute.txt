@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\Personal grind - 29.10.2022.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\Personal grind - 29.10.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\Personal grind - 29.10.2022.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\Personal grind - 29.10.2022.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\Personal grind - 29.10.2022.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\bin\Debug\net6.0\Personal grind - 29.10.2022.exe
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\bin\Debug\net6.0\Personal grind - 29.10.2022.deps.json
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\bin\Debug\net6.0\Personal grind - 29.10.2022.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\bin\Debug\net6.0\Personal grind - 29.10.2022.dll
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\bin\Debug\net6.0\Personal grind - 29.10.2022.pdb
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\Personal grind - 29.10.2022.dll
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\refint\Personal grind - 29.10.2022.dll
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\Personal grind - 29.10.2022.pdb
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\Personal grind - 29.10.2022.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\School\Programming L+Pr\Practice\Personal grind - 29.10.2022\obj\Debug\net6.0\ref\Personal grind - 29.10.2022.dll
