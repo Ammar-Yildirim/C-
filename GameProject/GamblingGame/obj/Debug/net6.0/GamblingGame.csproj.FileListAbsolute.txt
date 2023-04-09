@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\bin\Debug\net6.0\GamblingGame.exe
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\bin\Debug\net6.0\GamblingGame.deps.json
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\bin\Debug\net6.0\GamblingGame.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\bin\Debug\net6.0\GamblingGame.dll
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\bin\Debug\net6.0\GamblingGame.pdb
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\GamblingGame.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\GamblingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\GamblingGame.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\GamblingGame.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\GamblingGame.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\GamblingGame.dll
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\refint\GamblingGame.dll
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\GamblingGame.pdb
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\GamblingGame.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\School\Semester 1\Programming L+Pr\Homework\GamblingGame\obj\Debug\net6.0\ref\GamblingGame.dll
